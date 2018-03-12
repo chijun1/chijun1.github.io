@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: <repository url>
+  repository: https://github.com/chijun1/newStart.git
   branch: master
